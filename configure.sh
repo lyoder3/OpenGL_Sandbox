@@ -1,3 +1,3 @@
 #! /bin/sh
 
-cmake -DGLFW_BUILD_DOCS=OFF -S . -B out/build
+cmake -DGLFW_BUILD_DOCS=OFF -S ./src -B out/build -DCMAKE_BUILD_TYPE=Debug
