@@ -34,7 +34,6 @@ out
 *.app
 
 # CMAKE stuff
-*CMakeLists.txt
 *CMakeCache.txt
 *CMakeFiles
 *CMakeScripts
